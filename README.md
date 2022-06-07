@@ -1,2 +1,2 @@
 # tk-agents
-RL agents for tokudo research.
+RL agents for tokudo research with pytorch.
